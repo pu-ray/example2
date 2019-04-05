@@ -1,10 +1,10 @@
-def add(a,b):
-	c = a+b
+def add(a,b)
+c = a+b
 	print(c)
 
 
 def subtract(a,b):
-	c= a+b
+	c= a-b
 	print(c)
 
 def multiply(a,b):
